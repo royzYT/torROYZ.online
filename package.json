@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "github.com/9xN",
+  "author": "github.com/royzYT",
   "license": "AGPL-3.0",
   "dependencies": {
   }
